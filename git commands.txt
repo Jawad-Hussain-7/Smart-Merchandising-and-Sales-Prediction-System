@@ -1,0 +1,19 @@
+echo "# Rixby-Web" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jawadhussain6/Rixby-Web.git
+git push -u origin master
+
+//Rixby app
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/jawadhussain6/Rixby.git
+git push -u origin master
+
+//To run after downloading from github
+1. open in android studio and sync project with gragle files
+if that doesn't work
+2. clean android gradle
+3. clean cache

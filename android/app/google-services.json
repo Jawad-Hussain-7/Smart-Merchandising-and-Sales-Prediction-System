@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563591331358",
+    "firebase_url": "https://rixby-1.firebaseio.com",
+    "project_id": "rixby-1",
+    "storage_bucket": "rixby-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563591331358:android:0cdb5201bfe221884a780f",
+        "android_client_info": {
+          "package_name": "com.rixby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563591331358-q7itbcgjmpi85mg86up70qscgb7l0btl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rixby",
+            "certificate_hash": "9e5aa3a67fb63593df96d36c21240c2c378188ee"
+          }
+        },
+        {
+          "client_id": "563591331358-js5n0vsdrat8m07jud93k1i1dtsrgf2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_P4WQlkAx10aUXTx_SJBgtqX9HpvywI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563591331358-js5n0vsdrat8m07jud93k1i1dtsrgf2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
