@@ -1,7 +1,10 @@
 # Smart-Merchandising-and-Sales-Prediction-System
-This is my bachelors final year project. It has been developed using React Native, React and Google Firebase. <br/>
+This is my bachelors final year project. It has been developed using the following technologies:<br/>
+1. React Native.<br/>
+2. React.<br/>
+3. Google Firebase. <br/>
 
-An application which will provide the people to rent or buy items belonging to four categories namely hardware machinery, consumer electronics, houses and vehicles, and the marketeers to manage their inventory in the form of outlets.<br/>
+An application which will provide the people to rent or buy items belonging to four categories namely hardware machinery, consumer electronics, houses and vehicles, and the marketeers to manage their inventory in the form of outlets.<br/><br/>
 A feed forward neural network with sigmoid function as the activation function has been used for sales prediction.<br/>
 
 This repository contains four applications. These are the following:<br/>
